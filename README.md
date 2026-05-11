@@ -48,11 +48,7 @@ PowerBi-Project/
 
 ## Dashboard Preview
 
-(Add screenshots in the images folder and link them below)
-
-```
-![Dashboard](images/dashboard.png)
-```
+<img width="1362" height="762" alt="image" src="https://github.com/user-attachments/assets/23379f3c-7ab9-438f-a739-b917dd7664cf" />
 
 ---
 
