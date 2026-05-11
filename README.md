@@ -83,5 +83,5 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-Ritish Kumar
+Ritish Roshan Kumar
 GitHub: https://github.com/ritish8090
